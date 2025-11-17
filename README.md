@@ -19,3 +19,9 @@ This project is an **AI-powered tool** designed to streamline the process of scr
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/AI-Enabled-Candidate-Resume-Screening.git
+2. Navigate into the project folder:
+   cd AI-Enabled-Candidate-Resume-Screening
+3. Install dependencies:
+   pip install -r requirements.txt
+4. Run the main script:
+   python main.py
